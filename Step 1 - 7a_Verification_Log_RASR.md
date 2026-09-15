@@ -13,6 +13,8 @@ This queries each pre-indexed knowledge base using Quick Chat and compares each 
 | **5** | **NovaTech Support Tickets** | &nbsp;How many records are in the support tickets data?&nbsp; | 3,000 | The support tickets dataset contains 3,000 records. | Yes | Matches data dictionary row count |
 | **6** | **NovaTech Support Tickets** | &nbsp;How many tickets are critical priority?&nbsp; | 50 | &nbsp;There are 50 tickets with critical priority in the support tickets dataset.&nbsp; | Yes | Matches data dictionary critical- priority count |
 
+&nbsp;
+
 **Cross-Check**
 
 * **Fact verified:** How many records are in the CRM deals data?  
