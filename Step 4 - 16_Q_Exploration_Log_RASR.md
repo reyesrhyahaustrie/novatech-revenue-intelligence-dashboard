@@ -1,0 +1,26 @@
+# **NovaTech Q Exploration Log**
+
+**Student Name:** Rhyah Austrie S. Reyes&nbsp;  
+**Date:** September 15, 2026
+
+## **Q Exploration Questions**
+
+For each question, record Q's answer and cross-check against your dashboard.
+
+| \# | Question Asked | Q's Answer (summarize) | Dashboard Visual Used to Cross-Check | Dashboard Shows | Match? | Notes |
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+| 1 | Which campaign channel has the highest conversion rate? | Partner Referral leads with 251 conversions, more than 3x the next closest channel. Full breakdown: Partner Referral 251, Paid Social 74, Direct Mail 73, Email 8, Organic Search 6\. | Marketing Funnel — Funnel Stage by Channel | Same numbers exactly: Partner Referral 251, Paid Social 74, Direct Mail 73, Email 8, Organic Search 6 | Yes | Q pulled directly from the dashboard's own visual and cited it by name. Exact match. |
+| 2 | What is the average deal size by company size? | No direct average deal size by company size metric available. Showed Total Revenue by Company Size instead: Enterprise $319,423, Large $271,613, Medium $58,192, Small $57,973. Offered to query for the precise average if needed. | Sales Pipeline — Revenue by Company Size | Same totals exactly | Partial | Q correctly identified that the existing visual shows total revenue, not an average per deal, and offered to dig deeper than inventing an average. |
+| 3 | What is the average resolution time for critical vs. low-priority tickets? | Low 61.02 hrs, High 60.48 hrs, Medium 57.07 hrs, Critical 55.97 hrs. Critical resolves about 5 hours faster than Low, but the spread across all four priorities is relatively small. | Customer Health — Resolution Time by Priority | Matches exactly | Yes | Q's own read of the numbers, minimal spread across priorities, lines up with the finding already flagged in our dashboard annotation about triage effectiveness. |
+| 4 | What are the top 10 accounts by support ticket volume, and what is their total deal revenue? | Only 2 of the requested 10 accounts came back, confirmed by the exported data file also showing only 2 rows. Number 1 was FreshStart Medical, ACCT-012, 8,280 tickets, $15,898,635 deal revenue. Number 2 was YieldMax Software, ACCT-041, 5,010 tickets, $13,601,148 deal revenue. Q flagged the truncation itself and offered to retry. | Customer Health — At-Risk Accounts table | Consistent with the two visible rows. Full 10-row comparison not verified since the same truncation affected the exported file. | Partial, truncated | An 86-account table returning only its top and bottom 2 rows is a display and export limitation, not a data accuracy issue. Q was upfront about the gap instead of making up the missing 8 rows. |
+| 5 | Are there any campaigns where we spent more than we earned back? | Could not answer directly. Q stated the dashboard's current visuals don't include a spend vs. revenue comparison, even though the underlying fields campaign spend, revenue attributed, campaign ROI, exist in the data. Listed all 6 campaigns and offered to filter by each one individually or analyze the raw data file instead. | Marketing Funnel — Spend vs. Revenue combo chart | Not applicable. This specific visual was not built on the final dashboard. | No, dashboard gap | This is a real gap between what the log template asks to cross-check and what the dashboard actually includes. Q correctly declined to guess rather than fabricate spend vs revenue figures. Recommended follow-up: add a spend vs revenue visual to the Marketing Funnel sheet so both Q and the dashboard can answer this consistently. |
+
+## **Reflection (include in written summary)**
+
+\- Where did Q agree with the dashboard? On questions 1 and 3, Q's answers matched the dashboard's visuals exactly, both in the numbers themselves and in which channel or priority level came out on top. In both cases, Q cited the exact dashboard sheet and visual it pulled from, which made the answer easy to verify.
+
+\- Where did Q disagree or struggle? Why? Q struggled in three different ways, and none of them came from bad data. On question 2, the dashboard has a total revenue by size visual but not an average per deal visual, so Q reported the gap instead of estimating an average on its own. On question 4, a large 86-row table got truncated to just 2 rows, both in Q's chat response and in the exported data file, which points to a display or export limit rather than anything wrong with the underlying numbers. On question 5, the dashboard simply doesn't have a spend versus revenue chart, even though the fields needed for one exist in the data, so Q correctly said it couldn't answer than guessing.
+
+\- When would you use Q vs. the dashboard to answer a business question? The dashboard is the better source for anything covered by one of its built-in visuals, since the answer is already sitting there, visible and trustworthy. Q is more useful for ad hoc questions that don't map to an existing chart, and for exploring the underlying fields to see what's technically possible to build next. That said, this log shows Q is only as complete as the dashboard behind it. When a visual is missing in question 5, or a table is too big to return in question 4, Q says so instead of inventing an answer, which is exactly the behavior that makes it safe to rely on.
+
+&nbsp;
