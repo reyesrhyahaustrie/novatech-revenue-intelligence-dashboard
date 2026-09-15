@@ -9,8 +9,8 @@ NovaTech Solutions is a B2B SaaS company whose revenue data lived in three separ
 ## What is in this repo
 
 ### Verification and Exploration Logs
-- `Step_1_-_7a_Verification_log_RASR.md`, verification of the pre-indexed knowledge bases against the data dictionary, 6 entries
-- `Step_4_-_16_Q_Exploration_Log_RASR.md`, Quick Chat exploration log, 5 entries, with dashboard cross-checks and a written reflection
+- `Step 1 - 7a_Verification_Log_RASR.md`, verification of the pre-indexed knowledge bases against the data dictionary, 6 entries
+- `Step 4 - 16_Q_Exploration_Log_RASR.md`, Quick Chat exploration log, 5 entries, with dashboard cross-checks and a written reflection
 
 ### Written Deliverables
 - `NovaTech_ExecutiveReport_RASR.pdf`, written report for VP Sarah Chen, covering data strategy, dashboard design, Topic configuration effects, key insights, and AI vs. dashboard comparison
