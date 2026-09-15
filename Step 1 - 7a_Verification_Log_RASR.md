@@ -1,6 +1,7 @@
 # NovaTech Data Verification Log
 
-**Student Name:** Rhyah Austrie S. Reyes&nbsp;
+**Student Name:** Rhyah Austrie S. Reyes
+&nbsp;
 **Date:** September 15, 2026
 
 ## Instructions
