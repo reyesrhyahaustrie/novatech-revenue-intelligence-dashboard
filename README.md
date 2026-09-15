@@ -13,14 +13,14 @@ NovaTech Solutions is a B2B SaaS company whose revenue data lived in three separ
 - `Step 4 - 16_Q_Exploration_Log_RASR.md`, Quick Chat exploration log, 5 entries, with dashboard cross-checks and a written reflection
 
 ### Written Deliverables
-- `NovaTech_ExecutiveReport_RASR.pdf`, written report for VP Sarah Chen, covering data strategy, dashboard design, Topic configuration effects, key insights, and AI vs. dashboard comparison
-- `NovaTech_ExecutiveSummaryText_RASR.pdf`, the auto-generated executive summary text from the published dashboard, for all three sheets
+- `NovaTech - Executive Report_RASR.pdf`, written report for VP Sarah Chen, covering data strategy, dashboard design, Topic configuration effects, key insights, and AI vs. dashboard comparison
+- `NovaTech - Dashboard Executive Summary_RASR.pdf`, the auto-generated executive summary text from the published dashboard, for all three sheets
 
 ### Screenshots
-- `NovaTech_Screenshots_DataTransformation_RASR.docx`, join diagram, join configuration, calculated fields, and data type corrections
-- `NovaTech_Screenshots_DashboardInteractivity_RASR.docx`, all three dashboard sheets, filter in action, one-click filtering, and the cross-sheet navigation action
-- `NovaTech_Screenshots_TopicAndQA_RASR.docx`, baseline Quick Chat questions before the Topic was configured, the Topic setup, and the same questions re-asked after configuration
-- `NovaTech_Screenshots_AnnotatedDashboard_RASR.docx`, the five text annotations visible on the dashboard sheets
+- `NovaTech Screenshots - Data Transformation_RASR.pdf`, join diagram, join configuration, calculated fields, and data type corrections
+- `NovaTech Screenshots - Dashboard and Interactivity_RASR.pdf`, all three dashboard sheets, filter in action, one-click filtering, and the cross-sheet navigation action
+- `NovaTech Screenshots - Topic and Q&A_RASR.pdf`, baseline Quick Chat questions before the Topic was configured, the Topic setup, and the same questions re-asked after configuration
+- `NovaTech Screenshots - Annotated Dashboard_RASR.pdf`, the five text annotations visible on the dashboard sheets
 
 ### Dashboard PDF Export
 - `Novatech_Marketing_Funnel_RASR.pdf`
