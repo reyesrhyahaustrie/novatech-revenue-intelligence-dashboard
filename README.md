@@ -22,8 +22,10 @@ NovaTech Solutions is a B2B SaaS company whose revenue data lived in three separ
 - `NovaTech_Screenshots_TopicAndQA_RASR.docx`, baseline Quick Chat questions before the Topic was configured, the Topic setup, and the same questions re-asked after configuration
 - `NovaTech_Screenshots_AnnotatedDashboard_RASR.docx`, the five text annotations visible on the dashboard sheets
 
-### Dashboard Export
-- Dashboard PDF export, all three sheets, Marketing Funnel, Sales Pipeline, Customer Health
+### Dashboard PDF Export
+- `Novatech_Marketing_Funnel_RASR.pdf`
+- `Novatech_Sales_Pipeline_RASR.pdf`
+- `Novatech_Customer_Health_RASR.pdf`
 
 ## Dashboard Structure
 
