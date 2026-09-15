@@ -1,10 +1,11 @@
 # NovaTech Data Verification Log
 
-**Student Name:** Rhyah Austrie S. Reyes
-
+**Student Name:** Rhyah Austrie S. Reyes&nbsp;
 **Date:** September 15, 2026
 
-This queries each pre-indexed knowledge base using Quick Chat and compares each answer against the expected value from the Data Dictionary, Q's actual response, and whether they match. 6 entries, with 2 per data knowledge base.
+## Instructions
+ 
+Query each pre-indexed knowledge base using Quick Chat. For each question, record the expected answer (from the data dictionary), Q's actual response, and whether they match. Minimum 6 entries (2 per data knowledge base).
 
 ## Verification Log
 
